@@ -1,0 +1,14 @@
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.deps.json
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.runtimeconfig.json
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.dll
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.AssemblyInfo.cs
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.dll
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.genruntimeconfig.cache
+D:\FPTCN5\PRN212\Code\Assignment2_PRN212\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll

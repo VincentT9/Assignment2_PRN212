@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3CC33A-8FF5-41EC-98AF-292916190DC8}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3CC33A-8FF5-41EC-98AF-292916190DC8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 239,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 161,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\appsettings.json",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\appsettings.json",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\appsettings.json",
+              "RelativeToolTip": "WpfApp_tinncse181736\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T13:56:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\MyStoreContext.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\DataAccessLayer\\MyStoreContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\MyStoreContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:55:02.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:54:51.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:54:48.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Category.cs",
+              "RelativeToolTip": "BusinessObjects\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:54:43.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\MainWindow.xaml",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp_tinncse181736\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-19T13:51:32.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp_tinncse181736\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T13:51:32.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
