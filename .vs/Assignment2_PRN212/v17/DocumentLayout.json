@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD3CC33A-8FF5-41EC-98AF-292916190DC8}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD3CC33A-8FF5-41EC-98AF-292916190DC8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD3CC33A-8FF5-41EC-98AF-292916190DC8}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\dataaccesslayer\\lucysalesdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3CC33A-8FF5-41EC-98AF-292916190DC8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\lucysalesdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00C16A8-A133-41D4-ADDA-C05C98A7C35D}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3CC33A-8FF5-41EC-98AF-292916190DC8}|DataAccessLayer\\DataAccessLayer.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\dataaccesslayer\\dataaccesslayer.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD3CC33A-8FF5-41EC-98AF-292916190DC8}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -52,58 +68,71 @@
         },
         {
           "DockedHeight": 161,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\appsettings.json",
-              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\appsettings.json",
-              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\appsettings.json",
-              "RelativeToolTip": "WpfApp_tinncse181736\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-19T13:56:55.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyStoreContext.cs",
-              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\DataAccessLayer\\MyStoreContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\MyStoreContext.cs",
-              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\DataAccessLayer\\MyStoreContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\MyStoreContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T13:55:02.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Product.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
               "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Product.cs",
               "RelativeToolTip": "BusinessObjects\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T13:54:51.215Z",
+              "WhenOpened": "2025-07-19T14:40:38.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\OrderDetail.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\OrderDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:40:35.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Order.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Order.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Order.cs",
+              "RelativeToolTip": "BusinessObjects\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:40:33.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountMember.cs",
-              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\AccountMember.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
-              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\AccountMember.cs",
-              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Employee.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Employee.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Employee.cs",
+              "RelativeToolTip": "BusinessObjects\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:40:32.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T13:54:48.167Z",
+              "WhenOpened": "2025-07-19T14:40:29.358Z",
               "EditorCaption": ""
             },
             {
@@ -114,9 +143,22 @@
               "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
               "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\BusinessObjects\\Category.cs",
               "RelativeToolTip": "BusinessObjects\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T13:54:43.608Z",
+              "WhenOpened": "2025-07-19T14:40:25.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LucySalesDataContext.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\DataAccessLayer\\LucySalesDataContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\LucySalesDataContext.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\DataAccessLayer\\LucySalesDataContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\LucySalesDataContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:37:39.809Z",
               "EditorCaption": ""
             },
             {
@@ -133,19 +175,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "DataAccessLayer.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\DataAccessLayer\\DataAccessLayer.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj.Backup.tmp",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\DataAccessLayer\\DataAccessLayer.csproj.Backup.tmp",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-19T14:32:48.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\appsettings.json",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\appsettings.json",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\appsettings.json",
+              "RelativeToolTip": "WpfApp_tinncse181736\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-19T13:56:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp_tinncse181736\\MainWindow.xaml",
               "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp_tinncse181736\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-19T13:51:32.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T13:51:32.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp_tinncse181736\\MainWindow.xaml.cs",
@@ -153,8 +220,7 @@
               "RelativeToolTip": "WpfApp_tinncse181736\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T13:51:32.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T13:51:32.145Z"
             },
             {
               "$type": "Bookmark",
