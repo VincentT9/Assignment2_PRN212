@@ -31,6 +31,11 @@ namespace Services
             _orderDetailRepository.Delete(orderId, productId);
         }
 
+        public void Delete(int orderId)
+        {
+            _orderDetailRepository.Delete(orderId); 
+        }
+
         public IEnumerable<OrderDetail> GetAll()
         {
             return _orderDetailRepository.GetAll();

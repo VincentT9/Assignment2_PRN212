@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -49,6 +50,11 @@ namespace Services
         public IEnumerable<Product> SearchByName(string keyword)
         {
             return _productRepository.SearchByName(keyword);
+        }
+
+        public IEnumerable SearchProducts(string text)
+        {
+            return _productRepository.SearchProducts(text);
         }
 
         public void Update(Product product)

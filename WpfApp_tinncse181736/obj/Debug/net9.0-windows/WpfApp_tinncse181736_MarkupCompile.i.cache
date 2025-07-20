@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\FPTCN5\PRN212\Code\Assignment2_PRN212\WpfApp_tinncse181736\App.xaml
-11407045341
+15-143517113
 
-6-666550754
+22-1126729076
 239-603583241
-MainWindow.xaml;
+AdminDashboard.xaml;CustomerDashboard.xaml;CustomerDialog.xaml;CustomerManagement.xaml;CustomerOrderHistory.xaml;CustomerProfile.xaml;EmployeeDialog.xaml;EmployeeManagement.xaml;LoginWindow.xaml;OrderDetailsDialog.xaml;OrderDialog.xaml;OrderManagement.xaml;ProductDialog.xaml;ProductManagement.xaml;SalesReports.xaml;
 
-False
+True
 

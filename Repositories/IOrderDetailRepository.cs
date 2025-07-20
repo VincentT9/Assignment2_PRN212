@@ -13,5 +13,6 @@ namespace Repositories
         IEnumerable<OrderDetail> GetByOrderId(int orderId);
         void Add(OrderDetail detail);
         void Delete(int orderId, int productId);
+        void Delete(int orderId);
     }
 }

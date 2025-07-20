@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -62,5 +63,15 @@ namespace Services
         }
         public void AddDetail(OrderDetail detail) => _detailRepo.Add(detail);
         public void DeleteDetail(int orderId, int productId) => _detailRepo.Delete(orderId, productId);
+
+        public IEnumerable SearchOrders(string text)
+        {
+            return _orderRepo.SearchOrders(text);
+        }
+
+        public IEnumerable<object> GetOrdersByCustomerId(int customerId)
+        {
+            return _orderRepo.GetOrdersByCustomerId(customerId);
+        }
     }
 }

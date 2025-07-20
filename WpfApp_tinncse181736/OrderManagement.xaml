@@ -1,0 +1,70 @@
+﻿<Page x:Class="WpfApp_tinncse181736.OrderManagement"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp_tinncse181736"
+      mc:Ignorable="d" 
+     d:DesignHeight="600" d:DesignWidth="800"
+      Title="Order Management">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <TextBlock Grid.Row="0" Text="Order Management" Style="{StaticResource HeaderTextBlockStyle}"/>
+
+        <!-- Search and Actions Bar -->
+        <Grid Grid.Row="1" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Search Box -->
+            <Grid Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="txtSearch" Grid.Column="0" Margin="0,0,5,0" Padding="5" VerticalContentAlignment="Center"/>
+                <Button Grid.Column="1" Content="Search" Click="btnSearch_Click" Style="{StaticResource PrimaryButtonStyle}"/>
+                <Button Grid.Column="2" Content="Reset" Click="btnReset_Click" Margin="5,0,0,0" Padding="10,5" Background="#95a5a6" Foreground="White"/>
+            </Grid>
+
+            <!-- Action Buttons -->
+            <Button Grid.Column="2" Content="New Order" Click="btnAdd_Click" Style="{StaticResource SuccessButtonStyle}" Margin="10,0,5,0"/>
+            <Button Grid.Column="3" Content="View Details" Click="btnViewDetails_Click" Style="{StaticResource PrimaryButtonStyle}" Margin="5,0"/>
+            <Button Grid.Column="4" Content="Delete" Click="btnDelete_Click" Style="{StaticResource DangerButtonStyle}" Margin="5,0,0,0"/>
+        </Grid>
+
+        <!-- Order Data Grid -->
+        <DataGrid Grid.Row="2" x:Name="dgOrders" AutoGenerateColumns="False" IsReadOnly="True" 
+                  SelectionMode="Single" SelectionChanged="dgOrders_SelectionChanged"
+                  GridLinesVisibility="Horizontal" AlternatingRowBackground="#f5f5f5" 
+                  RowBackground="White" BorderBrush="#e0e0e0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Order ID" Binding="{Binding OrderID}" Width="80"/>
+                <DataGridTextColumn Header="Customer" Binding="{Binding Customer.CompanyName}" Width="*"/>
+                <DataGridTextColumn Header="Employee" Binding="{Binding Employee.Name}" Width="*"/>
+                <DataGridTextColumn Header="Order Date" Binding="{Binding OrderDate, StringFormat='{}{0:MM/dd/yyyy}'}" Width="120"/>
+                <DataGridTemplateColumn Header="Actions" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Details" Click="btnDetails_Click" Tag="{Binding}" 
+                                    Background="#3498db" Foreground="White" Padding="5,2" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

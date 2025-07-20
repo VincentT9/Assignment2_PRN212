@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,5 +16,7 @@ namespace Services
         void Update(Order order);
         void Delete(int id);
         IEnumerable<Order> GetByDateRange(DateTime start, DateTime end);
+        IEnumerable SearchOrders(string text);
+        IEnumerable<object> GetOrdersByCustomerId(int customerId);
     }
 }

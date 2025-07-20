@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -40,6 +41,26 @@ namespace Repositories
         public Customer? GetById(int id)
         {
             return _context.Customers.FirstOrDefault(c => c.CustomerId == id);
+        }
+
+        public Customer GetCustomerById(int customerId)
+        {
+            return _context.Customers
+                .FirstOrDefault(c => c.CustomerId == customerId) ?? throw new KeyNotFoundException($"Customer with ID {customerId} not found.");
+        }
+
+        public Customer GetCustomerByPhone(string text)
+        {
+            return _context.Customers
+                .FirstOrDefault(c => c.Phone == text) ?? throw new KeyNotFoundException($"Customer with phone {text} not found.");
+        }
+
+        public IEnumerable SearchCustomers(string text)
+        {
+            return _context.Customers
+                .Where(c => c.ContactName.Contains(text, StringComparison.OrdinalIgnoreCase) ||
+                            c.CompanyName.Contains(text, StringComparison.OrdinalIgnoreCase))
+                .ToList();
         }
 
         public void Update(Customer customer)

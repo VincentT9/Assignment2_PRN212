@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,6 +22,16 @@ namespace Services
             _employeeRepository = employeeRepository;
         }
 
+        public void Add(object employee)
+        {
+            _employeeRepository.Add(employee);
+        }
+
+        public void Delete(int employeeId)
+        {
+            _employeeRepository.Delete(employeeId);
+        }
+
         public IEnumerable<Employee> GetAll()
         {
             return _employeeRepository.GetAll();
@@ -34,6 +45,16 @@ namespace Services
         public Employee? Login(string username, string password)
         {
             return _employeeRepository.Login(username, password);
+        }
+
+        public IEnumerable SearchEmployees(string text)
+        {
+            return _employeeRepository.SearchEmployees(text);
+        }
+
+        public void Update(object employee)
+        {
+            _employeeRepository.Update(employee);
         }
     }
 }

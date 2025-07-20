@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -39,6 +40,21 @@ namespace Services
         public Customer? GetById(int id)
         {
             return _customerRepository.GetById(id);
+        }
+
+        public Customer GetCustomerById(int customerId)
+        {
+            return _customerRepository.GetCustomerById(customerId);
+        }
+
+        public Customer GetCustomerByPhone(string text)
+        {
+            return _customerRepository.GetCustomerByPhone(text);
+        }
+
+        public IEnumerable SearchCustomers(string text)
+        {
+            return _customerRepository.SearchCustomers(text);
         }
 
         public void Update(Customer customer)

@@ -33,6 +33,15 @@ namespace Repositories
             }
         }
 
+        public void Delete(int orderId)
+        {
+             _context.OrderDetails
+                .Where(od => od.OrderId == orderId)
+                .ToList()
+                .ForEach(od => _context.OrderDetails.Remove(od));
+            _context.SaveChanges();
+        }
+
         public IEnumerable<OrderDetail> GetAll()
         {
             var list = _context.OrderDetails.ToList();

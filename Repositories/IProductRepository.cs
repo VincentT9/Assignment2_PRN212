@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,5 +17,6 @@ namespace Repositories
         void Delete(int id);
         IEnumerable<Product> SearchByName(string keyword);
         IEnumerable<Product> GetByCategory(int categoryId);
+        IEnumerable SearchProducts(string text);
     }
 }

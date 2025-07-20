@@ -1,14 +1,111 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\orderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\ioderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\ioderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\iorderdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1F75469-80B5-40F0-847A-4FEF980F0F94}|Services\\Services.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\wpfapp_tinncse181736.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\wpfapp_tinncse181736.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\employeedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\employeedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\orderdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\orderdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\orderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\orderdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\employeedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\employeedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\customerdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\salesreports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\salesreports.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C242D878-813E-412D-B875-6EFF69B9E15F}|Repositories\\Repositories.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C242D878-813E-412D-B875-6EFF69B9E15F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\wpfapp_tinncse181736\\ordermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B635ACCE-0AAE-465C-85C5-0C3EBD8C4AB8}|WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj|solutionrelative:wpfapp_tinncse181736\\ordermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C242D878-813E-412D-B875-6EFF69B9E15F}|Repositories\\Repositories.csproj|d:\\fptcn5\\prn212\\code\\assignment2_prn212\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C242D878-813E-412D-B875-6EFF69B9E15F}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 239,
+          "DockedHeight": 178,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -22,8 +119,8 @@
           ]
         },
         {
-          "DockedHeight": 161,
-          "SelectedChildIndex": -1,
+          "DockedHeight": 222,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,7 +128,322 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwDgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:05:05.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:04:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetailService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\OrderDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderDetailService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\OrderDetailService.cs",
+              "RelativeToolTip": "Services\\OrderDetailService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:04:29.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:03:53.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:03:11.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:03:00.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOderService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\IOderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOderService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\IOderService.cs",
+              "RelativeToolTip": "Services\\IOderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:02:51.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderDetailService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\IOrderDetailService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderDetailService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\IOrderDetailService.cs",
+              "RelativeToolTip": "Services\\IOrderDetailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:02:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:01:54.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:01:36.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\LoginWindow.xaml",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\LoginWindow.xaml",
+              "RelativeToolTip": "WpfApp_tinncse181736\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T06:40:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WpfApp_tinncse181736",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj",
+              "RelativeToolTip": "WpfApp_tinncse181736\\WpfApp_tinncse181736.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T06:37:53.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\App.xaml.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp_tinncse181736\\App.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:31:23.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\App.xaml",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\App.xaml",
+              "RelativeToolTip": "WpfApp_tinncse181736\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T06:35:33.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDialog.xaml.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\OrderDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\OrderDialog.xaml.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\OrderDialog.xaml.cs",
+              "RelativeToolTip": "WpfApp_tinncse181736\\OrderDialog.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA4BAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:29:55.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeDialog.xaml.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\EmployeeDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\EmployeeDialog.xaml.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\EmployeeDialog.xaml.cs",
+              "RelativeToolTip": "WpfApp_tinncse181736\\EmployeeDialog.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:29:06.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerDialog.xaml",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\CustomerDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\CustomerDialog.xaml",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\CustomerDialog.xaml",
+              "RelativeToolTip": "WpfApp_tinncse181736\\CustomerDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T06:28:40.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDialog.xaml",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\EmployeeDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\EmployeeDialog.xaml",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\EmployeeDialog.xaml",
+              "RelativeToolTip": "WpfApp_tinncse181736\\EmployeeDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T06:24:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDialog.xaml",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\OrderDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\OrderDialog.xaml",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\OrderDialog.xaml",
+              "RelativeToolTip": "WpfApp_tinncse181736\\OrderDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-20T06:23:40.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SalesReports.xaml.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\SalesReports.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\SalesReports.xaml.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\SalesReports.xaml.cs",
+              "RelativeToolTip": "WpfApp_tinncse181736\\SalesReports.xaml.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAtwGkBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:23:20.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Repositories\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Repositories\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderDetailRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:22:28.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderManagement.xaml.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\OrderManagement.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\OrderManagement.xaml.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\OrderManagement.xaml.cs",
+              "RelativeToolTip": "WpfApp_tinncse181736\\OrderManagement.xaml.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAMwJ8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:21:37.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDYAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:21:14.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_tinncse181736\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\FPTCN5\\PRN212\\Code\\Assignment2_PRN212\\WpfApp_tinncse181736\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp_tinncse181736\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:21:05.812Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -59,6 +60,29 @@ namespace Repositories
         public Order? GetById(int id)
         {
             return _context.Orders.FirstOrDefault(o => o.OrderId == id);
+        }
+
+        public IEnumerable<object> GetOrdersByCustomerId(int customerId)
+        {
+            return _context.Orders
+                .Include(o => o.Customer)
+                .Include(o => o.Employee)
+                .Where(o => o.CustomerId == customerId)
+                .OrderByDescending(o => o.OrderDate)
+                .ToList();
+        }
+
+        public IEnumerable SearchOrders(string text)
+        {
+            return _context.Orders
+                .Include(o => o.Customer)
+                .Include(o => o.Employee)
+                .Where(o => o.Customer.CompanyName.Contains(text, StringComparison.OrdinalIgnoreCase) ||
+                            o.Customer.ContactName.Contains(text, StringComparison.OrdinalIgnoreCase) ||
+                            o.Employee.Name.Contains(text, StringComparison.OrdinalIgnoreCase) ||
+                            o.OrderId.ToString().Contains(text))
+                .OrderByDescending(o => o.OrderDate)
+                .ToList();
         }
 
         public void Update(Order order)

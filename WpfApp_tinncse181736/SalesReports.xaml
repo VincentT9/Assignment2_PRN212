@@ -1,0 +1,64 @@
+﻿<Page x:Class="WpfApp_tinncse181736.SalesReports"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp_tinncse181736"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="Sales Reports">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <TextBlock Grid.Row="0" Text="Sales Reports" Style="{StaticResource HeaderTextBlockStyle}"/>
+
+        <!-- Date Range Filter -->
+        <Grid Grid.Row="1" Margin="0,0,0,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" Text="From:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <DatePicker Grid.Column="1" x:Name="dpStartDate" Margin="0,0,20,0"/>
+
+            <TextBlock Grid.Column="2" Text="To:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+            <DatePicker Grid.Column="3" x:Name="dpEndDate" Margin="0,0,20,0"/>
+
+            <Button Grid.Column="4" Content="Generate Report" Click="btnGenerateReport_Click" 
+                    Style="{StaticResource PrimaryButtonStyle}"/>
+        </Grid>
+
+        <!-- Report Type Selection -->
+        <StackPanel Grid.Row="2" Margin="0,0,0,20" Orientation="Horizontal">
+            <RadioButton x:Name="rbSalesByProduct" Content="Sales by Product" 
+                         Margin="0,0,20,0" IsChecked="True" GroupName="ReportType"/>
+            <RadioButton x:Name="rbSalesByCustomer" Content="Sales by Customer" 
+                         Margin="0,0,20,0" GroupName="ReportType"/>
+            <RadioButton x:Name="rbSalesByEmployee" Content="Sales by Employee" 
+                         Margin="0,0,0,0" GroupName="ReportType"/>
+        </StackPanel>
+
+        <!-- Report Data Grid -->
+        <DataGrid Grid.Row="3" x:Name="dgReport" AutoGenerateColumns="False" IsReadOnly="True" 
+                  GridLinesVisibility="Horizontal" AlternatingRowBackground="#f5f5f5" 
+                  RowBackground="White" BorderBrush="#e0e0e0">
+            <!-- Columns will be set dynamically based on report type -->
+        </DataGrid>
+
+        <!-- Export Button -->
+        <Button Grid.Row="4" Content="Export to Excel" HorizontalAlignment="Right" Margin="0,10,0,0"
+                Click="btnExport_Click" Style="{StaticResource SuccessButtonStyle}"/>
+    </Grid>
+</Page>

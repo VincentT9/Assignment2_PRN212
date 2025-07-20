@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -63,12 +64,23 @@ namespace Repositories
 
         public IEnumerable<Product> SearchByName(string keyword)
         {
-            throw new NotImplementedException();
+            return _context.Products
+                    .Where(p => p.ProductName.Contains(keyword, StringComparison.OrdinalIgnoreCase) && !p.Discontinued)
+                    .OrderBy(p => p.ProductName)
+                    .ToList();
+        }
+
+        public IEnumerable SearchProducts(string text)
+        {
+            return _context.Products
+                .Where(p => p.ProductName.Contains(text, StringComparison.OrdinalIgnoreCase) && !p.Discontinued)
+                .OrderBy(p => p.ProductName)
+                .ToList();
         }
 
         public void Update(Product product)
         {
-            throw new NotImplementedException();
+            _context.Entry(product).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
         }
     }
 }
